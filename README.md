@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi :blush: 👋
 My experience in programming started in the 12th grade when I decided this is the field I want to pursue, and currently I am particularly passionate about:
 
 
