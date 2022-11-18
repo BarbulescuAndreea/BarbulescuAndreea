@@ -33,3 +33,6 @@ My experience in programming started in the 12th grade when I decided this is th
 - [C, C++, Java] - medium level
 
 - [Matlab, Racket, Haskell, Prolog, Verilog] - basic knowledge-medium
+
+
+** You can take a look at some of my project on my page **
