@@ -27,4 +27,9 @@ My experience in programming started in the 12th grade when I decided this is th
 * Parallel and Distributed Algorithms (basic knowledge)
 
 
-• The languages studied so far are: [C, C++, Java] - medium level, [Matlab, Racket, Haskell, Prolog, Verilog] - basic knowledge-medium.
+• The languages studied so far are: 
+
+
+- [C, C++, Java] - medium level
+
+- [Matlab, Racket, Haskell, Prolog, Verilog] - basic knowledge-medium
