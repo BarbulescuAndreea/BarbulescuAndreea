@@ -33,9 +33,15 @@ My *experience in programming* started in the 12th grade when I decided this is 
 • The languages studied so far are: 
 
 
-- [C, C++, Java] - medium level
+- C
 
-- [Matlab, Racket, Haskell, Prolog, Verilog] - basic knowledge-medium
+- C++, Java
+
+- Matlab 
+
+- Racket, Haskell, Prolog
+
+- Verilog
 
 
 **You can take a look at some of my projects**
