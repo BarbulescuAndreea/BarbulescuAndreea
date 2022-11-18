@@ -1,8 +1,8 @@
 ### Hi :blush: :floppy_disk:
-My name is Andreea Barbulescu, I am 21 years old and I am currently a **3rd year student at the Faculty of Automatic Control and Computer Science**, Computers and Information Technology section at **Polytechnic University of Bucharest**.
+My name is **Andreea Barbulescu**, I am 21 years old and I am currently a **3rd year student at the Faculty of Automatic Control and Computer Science**, Computers and Information Technology section at **Polytechnic University of Bucharest**.
 
 
-My experience in programming started in the 12th grade when I decided this is the field I want to pursue, and currently I am particularly passionate about:
+My *experience in programming* started in the 12th grade when I decided this is the field I want to pursue, and currently I am particularly passionate about:
 
 
 * Communication Protocols
