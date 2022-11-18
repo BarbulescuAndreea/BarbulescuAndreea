@@ -38,4 +38,4 @@ My *experience in programming* started in the 12th grade when I decided this is 
 - [Matlab, Racket, Haskell, Prolog, Verilog] - basic knowledge-medium
 
 
-**You can take a look at some of my project on my page**
+**You can take a look at some of my projects**
