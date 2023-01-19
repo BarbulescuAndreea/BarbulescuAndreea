@@ -4,12 +4,13 @@ My name is **Andreea Barbulescu**, I am 21 years old and I am currently a **3rd 
 
 My *experience in programming* started in the 12th grade when I decided this is the field I want to pursue, and currently I am particularly passionate about:
 
+* Object-Oriented Programming
 
 * Communication Protocols
 
 * CCNA 
 
-* Game Developing/Graphics following a project implementation of a game similar to Duck Hunt.
+* Game Developing/Graphics
 
 
 • I have knowledge in: 
@@ -27,7 +28,7 @@ My *experience in programming* started in the 12th grade when I decided this is 
 * Procedural Programming (Racket, Haskell)
 
 
-* Parallel and Distributed Algorithms (basic knowledge)
+* Parallel and Distributed Algorithms
 
 
 • The languages studied so far are: 
@@ -43,5 +44,6 @@ My *experience in programming* started in the 12th grade when I decided this is 
 
 - Verilog
 
+- MySQL
 
 **You can take a look at some of my projects**
