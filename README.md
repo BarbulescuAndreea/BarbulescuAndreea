@@ -18,27 +18,26 @@ I am particularly passionate about:
 
 * Object-Oriented Programming (Java)
 
+* Operating-Systems
 
 * Data Structures
 
-
 * Assembly Languages
 
-
 * Procedural Programming (Racket, Haskell)
-
 
 * Parallel and Distributed Algorithms
 
 
 • The languages studied so far are: 
 
-
 - C
 
 - C++, Java
 
 - Matlab 
+
+- Assembly x86
 
 - Racket, Haskell, Prolog
 
