@@ -1,4 +1,4 @@
-### Hi :blush: :floppy_disk:
+### Hello :blush: :floppy_disk:
 I am currently a **3rd year student at the Faculty of Automatic Control and Computer Science**, Computers and Information Technology section at **Polytechnic University of Bucharest**.
 I am particularly passionate about:
 
