@@ -10,7 +10,7 @@ I am particularly passionate about:
 
 * Network Security Management
 
-* Game Developing/Graphics
+* Algorithms
 
 
 • I have knowledge in: 
