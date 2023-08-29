@@ -1,5 +1,5 @@
 ### Hello :blush: :floppy_disk:
-I am currently a **3rd year student at the Faculty of Automatic Control and Computer Science**, Computers and Information Technology section at **Polytechnic University of Bucharest**.
+I am currently a **4rd year student at the Faculty of Automatic Control and Computer Science**, Computers and Information Technology section at **Polytechnic University of Bucharest**.
 I am particularly passionate about:
 
 * Object-Oriented Programming
@@ -22,18 +22,24 @@ I am particularly passionate about:
 
 * Data Structures
 
-* Assembly Languages
+* Assembly Language x86
 
-* Procedural Programming (Racket, Haskell)
+* Functional Programming (Racket, Haskell)
 
 * Parallel and Distributed Algorithms
+  
+* Deployment Technologies (Kubernetes, Docker, Jenkins)
+
+* Bash Scripting (Groovy, Bash)
+
+* Agile-Scrum Methodology
 
 
 • The languages studied so far are: 
 
 - C
 
-- C++, Java
+- Java, Scala, C++
 
 - Matlab 
 
