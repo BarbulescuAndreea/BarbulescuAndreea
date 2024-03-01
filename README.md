@@ -1,5 +1,5 @@
 ### Hello :blush: :floppy_disk:
-I am currently a **4rd year student at the Faculty of Automatic Control and Computer Science**, Computers and Information Technology section at **Polytechnic University of Bucharest**.
+I am currently a **4rd year student at the Faculty of Automatic Control and Computer Science**, Specialization **C3 - Systems Programming** at **Polytechnic University of Bucharest**.
 I am particularly passionate about:
 
 * Object-Oriented Programming
