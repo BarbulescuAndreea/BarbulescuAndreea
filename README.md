@@ -4,13 +4,13 @@ I am particularly passionate about:
 
 * Object-Oriented Programming
 
-* Communication Protocols
-
-* CCNA 
+* Application Development
 
 * Network Security Management
 
 * Algorithms
+
+* Operating Systems
 
 
 • I have knowledge in: 
@@ -49,6 +49,6 @@ I am particularly passionate about:
 
 - Verilog
 
-- MySQL
+- MySQL, PLSQL
 
 **You can take a look at some of my projects**
