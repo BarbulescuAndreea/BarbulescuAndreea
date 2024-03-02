@@ -12,6 +12,7 @@ I am particularly passionate about:
 
 * Operating Systems
 
+* Embedded Systems
 
 • I have knowledge in: 
 
